@@ -1,0 +1,10 @@
+1 Headphones 1018 82 5103182 N 2.0 abc
+3 Table 3194 20 9485361 N 4.6 def
+2 Jacket 284 51 8028972 N 5.0 pqr
+1 Camera 905 24 3040360 N 1.5 xyz
+2 Jacket 688 80 5547283 Y 4.3 lmn
+1 Tablet 1622 64 5989338 N 1.8 lmn
+3 Table 4930 95 5690479 N 4.2 abc
+1 Headphones 492 91 4100724 N 1.5 xyz
+1 Mobile 145 73 9080926 Y 2.0 abc
+3 Wardrobe 2794 34 4096029 N 4.5 abc
